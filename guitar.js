@@ -23,3 +23,8 @@ export class Mandoline extends Guitar {
 
 //let guitar = new Guitar("PRS");
 //document.write("<Br>"+guitar.getBrand());
+/*
+
+let guitar = new Mandoline('PRS', 12);
+console.log(guitar);
+console.log(guitar.getCordes());*/
